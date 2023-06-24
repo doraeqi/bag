@@ -4,6 +4,7 @@
 * [Windows软件](windows-ruan-jian/README.md)
   * [装机必备](windows-ruan-jian/zhuang-ji-bi-bei/README.md)
     * [WinRAR安装教程](windows-ruan-jian/zhuang-ji-bi-bei/winrar-an-zhuang-jiao-cheng.md)
+    * [7-Zip安装教程](windows-ruan-jian/zhuang-ji-bi-bei/7zip-an-zhuang-jiao-cheng.md)
   * [电脑系统](windows-ruan-jian/dian-nao-xi-tong/README.md)
     * [Page 1](windows-ruan-jian/dian-nao-xi-tong/page-1.md)
     * [Page 3](windows-ruan-jian/dian-nao-xi-tong/page-3.md)
