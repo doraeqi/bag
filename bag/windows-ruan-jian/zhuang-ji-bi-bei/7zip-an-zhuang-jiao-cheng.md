@@ -16,8 +16,16 @@
 
 1\. 双击打开下载的【7z2105（64位）】。
 
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
 2\. 点击【Install】。
+
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 3\. 点击【Close】。
 
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 4\. 安装成功！
+
+<figure><img src="../../.gitbook/assets/image (5).png" alt="" width="559"><figcaption></figcaption></figure>

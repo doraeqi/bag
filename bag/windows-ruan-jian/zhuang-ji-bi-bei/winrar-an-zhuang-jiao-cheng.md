@@ -16,10 +16,20 @@ WinRAR 是一款功能强大的压缩包管理器，可用于备份数据，缩�
 
 1\. 双击打开下载后的【WinRAR……】。
 
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+
 2\. 点击【安装】（压缩包很小，建议直接安装到默认C盘）。
+
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 3\. 点击【确定】。
 
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
 4\. 点击【完成】。
 
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
 5\. 安装成功！
+
+<figure><img src="../../.gitbook/assets/image (4).png" alt="" width="533"><figcaption></figcaption></figure>
